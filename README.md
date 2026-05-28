@@ -238,82 +238,82 @@ ai-resume-builder/
 ### 1. Landing Page — Hero Section
 AI-powered resume builder homepage with "Get Started" and "View on GitHub" CTAs.
 
-![Landing Page Hero](./screenshots/Screenshot_2026-05-29_003804.png)
+![Landing Page Hero](./Screenshot/Screenshot 2026-05-29 003804.png)
 
 ### 2. Landing Page — Feature Showcase
 Animated mockup cards showing AI Generated, ATS Optimized, and Download PDF features.
 
-![Landing Page Mockups](./screenshots/Screenshot_2026-05-29_003821.png)
+![Landing Page Mockups](./Screenshot/Screenshot 2026-05-29 003821.png)
 
 ### 3. Landing Page — Why Choose & How It Works
 Feature highlights (AI-Powered Content, Lightning Fast, ATS Optimized) and 3-step process (Sign Up → Fill Details → Download & Share).
 
-![Landing Page Features](./screenshots/Screenshot_2026-05-29_003836.png)
+![Landing Page Features](./Screenshot/Screenshot 2026-05-29 003836.png)
 
 ### 4. Landing Page — CTA Footer
 "Ready to land your dream job?" call-to-action with Start Building Free button.
 
-![Landing Page CTA](./screenshots/Screenshot_2026-05-29_003850.png)
+![Landing Page CTA](./Screenshot/Screenshot 2026-05-29 003850.png)
 
 ### 5. Authentication — Sign In / Sign Up
 Clean login and registration interface with secure JWT + bcrypt session management.
 
-![Sign In Page](./screenshots/Screenshot_2026-05-29_003909.png)
+![Sign In Page](./Screenshot/Screenshot 2026-05-29 003909.png)
 
 ### 6. Dashboard — Multi-Resume Management
 User dashboard showing created resumes with View, Edit, and Delete options. Displays last edited date and Share resume shortcut.
 
-![Dashboard](./screenshots/Screenshot_2026-05-29_003924.png)
+![Dashboard](./Screenshot/Screenshot 2026-05-29 003924.png)
 
 ### 7. Step 1 of 9 — Personal Details with Live Preview
 9-step guided form with a real-time live preview panel on the right showing the fully populated resume as it builds.
 
-![Personal Details](./screenshots/Screenshot_2026-05-29_003941.png)
+![Personal Details](./Screenshot/Screenshot 2026-05-29 003941.png)
 
 ### 8. Step 2 of 9 — Summary with AI Generation
 User fills in job title, clicks "Generate from AI" — Claude AI returns a professional summary. 250-character limit enforced in real-time.
 
-![Summary AI Generation](./screenshots/Screenshot_2026-05-29_003958.png)
+![Summary AI Generation](./Screenshot/Screenshot 2026-05-29 003958.png)
 
 ### 9. Step 3 of 9 — Experience with AI-Generated Bullet Points
 Position title, company, dates, and WYSIWYG editor with "Generate from AI" producing ATS-friendly action-verb bullet points.
 
-![Experience Section](./screenshots/Screenshot_2026-05-29_004018.png)
+![Experience Section](./Screenshot/Screenshot 2026-05-29 004018.png)
 
 ### 10. Step 4 of 9 — Projects with GitHub & Demo URLs
 Project name, tech stack, GitHub repository URL, live demo URL, and AI-generated project description bullets. GitHub/Demo URLs earn bonus ATS points.
 
-![Projects Section](./screenshots/Screenshot_2026-05-29_004036.png)
+![Projects Section](./Screenshot/Screenshot 2026-05-29 004036.png)
 
 ### 11. Step 5 of 9 — Research Papers (Optional)
 Dedicated section for academic publications — unique feature not found in most resume builders.
 
-![Research Papers Section](./screenshots/Screenshot_2026-05-29_004048.png)
+![Research Papers Section](./Screenshot/Screenshot 2026-05-29 004048.png)
 
 ### 12. Step 6 of 9 — Education
 University name, degree, major, dates, CGPA, and description — all reflected instantly in the live preview.
 
-![Education Section](./screenshots/Screenshot_2026-05-29_004100.png)
+![Education Section](./Screenshot/Screenshot 2026-05-29 004100.png)
 
 ### 13. Step 7 of 9 — Skills with Star Ratings
 Add professional skills with proficiency ratings visualized as progress bars in the live resume preview.
 
-![Skills Section](./screenshots/Screenshot_2026-05-29_004113.png)
+![Skills Section](./Screenshot/Screenshot 2026-05-29 004113.png)
 
 ### 14. Step 8 of 9 — Certifications with Credibility Analysis
 Add certifications with issuer name and credential URL. "Analyze Credibility" button cross-references against trusted providers (Coursera, IBM, Google, AWS, etc.).
 
-![Certifications with Credibility](./screenshots/Screenshot_2026-05-29_004126.png)
+![Certifications with Credibility](./Screenshot/Screenshot 2026-05-29 004126.png)
 
 ### 15. Step 9 of 9 — ATS Compatibility Score
 Final ATS score (0–100) with circular progress ring, category breakdown (Skills: Good, Projects: Verified Excellent, Certifications: Needs Improvement, Experience: Included), and actionable "Areas to Improve" suggestions.
 
-![ATS Score](./screenshots/Screenshot_2026-05-29_004146.png)
+![ATS Score](./Screenshot/Screenshot 2026-05-29 004146.png)
 
 ### 16. Resume Complete — Download PDF & Share
 "Your Resume is Ready!" screen with one-click PDF download and shareable resume link generation.
 
-![Resume Ready - Download & Share](./screenshots/Screenshot_2026-05-29_004204.png)
+![Resume Ready - Download & Share](./Screenshot/Screenshot 2026-05-29 004204.png)
 
 ---
 
